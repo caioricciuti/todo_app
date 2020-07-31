@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "My List",
+    "slug": "mylist",
+    "platforms": ["ios", "android"],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon2.jpeg",
+    "splash": {
+      "image": "./assets/icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "bundleIdentifier": "com.caioricciuti.mylist",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.caioricciuti.mylist"
+    }
+  }
+}
