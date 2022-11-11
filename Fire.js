@@ -2,13 +2,13 @@ import firebase from "firebase";
 import "@firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBhZtC-WnL5nTgN9SLCHW5mBpSbpf7yEfc",
-  authDomain: "tydeclean-ca5a8.firebaseapp.com",
-  databaseURL: "https://tydeclean-ca5a8.firebaseio.com",
-  projectId: "tydeclean-ca5a8",
-  storageBucket: "tydeclean-ca5a8.appspot.com",
-  messagingSenderId: "1065127929497",
-  appId: "1:1065127929497:web:985fc4d63151cc167dfa08",
+  apiKey: "",
+  authDomain: "",
+  databaseURL: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
 };
 
 class Fire {
